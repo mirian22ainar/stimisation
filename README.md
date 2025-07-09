@@ -18,13 +18,14 @@ My work focuses on:
 
 ## 📁 Repository Structure
 
-| Folder / File                            | Description                                                                 |
+| File / Notebook                           | Description                                                                 |
 |------------------------------------------|-----------------------------------------------------------------------------|
-| `protocole_etude_arduino.ipynb`          | Trigger generation using an Arduino microcontroller.                        |
-| `etude_photodiode.md` / `.ipynb`         | Analysis of visual stimulus detection using a photodiode connected to an acquisition system. |
-| `fusion_arduino_photodiode.md` / `.ipynb`| Combined implementation: Arduino-based triggers + photodiode analysis.      |
-| `doc_meg.ipynb`                          | Educational documentation on signals exchanged during a MEG experiment: triggers, button responses, video, TTL, photodiode, etc. |
-| `README.md`                              | This file – project overview and repository navigation.                     |
+| [`protocole_etude_arduino.ipynb`](./protocole_etude_arduino.ipynb)          | Trigger generation using an Arduino microcontroller.                        |
+| [`etude_photodiode.ipynb`](./etude_photodiode.ipynb)                        | Analysis of visual stimulus detection using a photodiode connected to an acquisition system. |
+| [`fusion_arduino_photodiode.ipynb`](./fusion_arduino_photodiode.ipynb)     | Combined implementation: Arduino-based triggers + photodiode analysis.      |
+| [`doc_meg.ipynb`](./doc_meg.ipynb)                                          | Educational documentation on signals exchanged during a MEG experiment: triggers, button responses, video, TTL, photodiode, etc. |
+| [`README.md`](./README.md)                                                  | This file – project overview and repository navigation.                     |
+
 
 ⚠️ Some files are Jupyter Notebooks (`.ipynb`) while others are plain Markdown (`.md`). This allows for both **interactive execution** and **clear documentation**.
 
