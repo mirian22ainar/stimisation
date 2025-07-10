@@ -1,6 +1,6 @@
 # 🧠 MEG Stimulus–Response Synchronization Project
 
-Welcome to this repository dedicated to my final-year internship work at the NeuroSpin center (CEA Saclay), focused on improving the synchronization system used in magnetoencephalography (MEG) experiments. (In other words I'm working on optimizing the stimulation process in MEG experiments — which inspired the name Stimisation)
+Welcome to this repository dedicated to my final-year internship work at the NeuroSpin center (CEA Saclay), focused on improving the synchronization system used in magnetoencephalography (MEG) experiments. (In other words I'm working on optimizing the stimulation process in MEG experiments — which inspired the name *Stimisation*)
 
 ## 👩🏽 About Me
 
@@ -18,14 +18,13 @@ My work focuses on:
 
 ## 📁 Repository Structure
 
-| File / Notebook                           | Description                                                                 |
-|------------------------------------------|-----------------------------------------------------------------------------|
-| [`protocole_etude_arduino.ipynb`](./protocole_etude_arduino.ipynb)          | Trigger generation using an Arduino microcontroller.                        |
-| [`etude_photodiode.ipynb`](./etude_photodiode.ipynb)                        | Analysis of visual stimulus detection using a photodiode connected to an acquisition system. |
-| [`fusion_arduino_photodiode.ipynb`](./fusion_arduino_photodiode.ipynb)     | Combined implementation: Arduino-based triggers + photodiode analysis.      |
-| [`doc_meg.ipynb`](./doc_meg.ipynb)                                          | Educational documentation on signals exchanged during a MEG experiment: triggers, button responses, video, TTL, photodiode, etc. |
-| [`README.md`](./README.md)                                                  | This file – project overview and repository navigation.                     |
-
+| File / Notebook                                                                 | Description                                                                 |
+|----------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| [`protocole_study_arduino.ipynb`](./protocols_eng/protocole_study_arduino.ipynb) | Trigger generation using an Arduino microcontroller.                        |
+| [`protocole_study_photodiode.ipynb`](./protocols_eng/protocole_study_photodiode.ipynb) | Analysis of visual stimulus detection using a photodiode.                 |
+| [`protocole_study_sync_arduino_and_photodiode.ipynb`](./protocols_eng/protocole_study_sync_arduino_and_photodiode.ipynb) | Combined implementation: Arduino + photodiode.                            |
+| [`meg_doc.ipynb`](./protocols_eng/meg_doc.ipynb)                                 | Educational documentation on signal exchange in MEG experiments.            |
+| [`README.md`](./README.md)                                                      | This file – project overview and repository navigation.                     |
 
 ⚠️ Some files are Jupyter Notebooks (`.ipynb`) while others are plain Markdown (`.md`). This allows for both **interactive execution** and **clear documentation**.
 
@@ -43,6 +42,7 @@ Feel free to contact me via GitHub or email if you have any questions or suggest
 Thanks for your interest! ✨
 
 ---
+
 # 🧠 Projet de Synchronisation Stimuli–Réponses en MEG
 
 Bienvenue dans ce dépôt dédié à mon travail de stage de fin d'études, réalisé au sein du centre NeuroSpin (CEA Saclay), portant sur l'amélioration du système de synchronisation utilisé lors des expériences de magnétoencéphalographie (MEG).  
@@ -66,13 +66,13 @@ Mon travail consiste à :
 
 ## 📁 Structure du dépôt
 
-| Fichier / Notebook                                 | Description                                                                 |
-|----------------------------------------------------|-----------------------------------------------------------------------------|
-| [`protocole_etude_arduino.ipynb`](./protocole_etude_arduino.ipynb)          | Génération de triggers via un microcontrôleur Arduino.                      |
-| [`etude_photodiode.ipynb`](./etude_photodiode.ipynb)                        | Analyse de la détection des stimuli visuels avec une photodiode connectée à un système d’acquisition. |
-| [`fusion_arduino_photodiode.ipynb`](./fusion_arduino_photodiode.ipynb)     | Implémentation combinée : triggers Arduino + analyse photodiode.            |
-| [`doc_meg.ipynb`](./doc_meg.ipynb)                                          | Documentation pédagogique sur les signaux échangés lors d'une acquisition MEG : triggers, réponses boutons, vidéo, TTL, photodiode, etc. |
-| [`README.md`](./README.md)                                                  | Ce fichier – présentation du projet et guide de navigation.                 |
+| Fichier / Notebook                                                                 | Description                                                                 |
+|------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| [`protocole_etude_arduino.ipynb`](./protocoles_fr/protocole_etude_arduino.ipynb)  | Génération de triggers via un microcontrôleur Arduino.                      |
+| [`protocole_etude_photodiode.ipynb`](./protocoles_fr/protocole_etude_photodiode.ipynb) | Analyse de la détection des stimuli visuels avec une photodiode.          |
+| [`protocole_etude_sync_arduino_et_photodiode.ipynb`](./protocoles_fr/protocole_etude_sync_arduino_et_photodiode.ipynb) | Implémentation combinée : triggers Arduino + photodiode.                   |
+| [`doc_meg.ipynb`](./docs/doc_meg.ipynb)                                            | Documentation pédagogique sur les signaux échangés lors d'une acquisition MEG. |
+| [`README.md`](./README.md)                                                        | Ce fichier – présentation du projet et guide de navigation.                 |
 
 ⚠️ Certains fichiers sont des notebooks Jupyter (`.ipynb`) tandis que d’autres sont en Markdown (`.md`), ce qui permet à la fois une **exécution interactive** et une **documentation claire**.
 
@@ -88,6 +88,3 @@ Ce dépôt s’adresse à :
 N’hésitez pas à me contacter via GitHub ou par e-mail si vous avez des questions ou suggestions.
 
 Merci pour votre intérêt ! ✨
-
-
-
