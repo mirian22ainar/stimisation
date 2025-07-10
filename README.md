@@ -41,6 +41,7 @@ This repository is designed for:
 Feel free to contact me via GitHub or email if you have any questions or suggestions.
 
 Thanks for your interest! ✨
+
 ---
 # 🧠 Projet de Synchronisation Stimuli–Réponses en MEG
 
