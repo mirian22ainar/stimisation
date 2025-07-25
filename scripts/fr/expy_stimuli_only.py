@@ -1,11 +1,11 @@
 from expyriment import design, control, stimuli, misc
 
-# --- Paramétrage Expyriment ---
+# --- Setup Expyriment ---
 exp = design.Experiment(name="Stimuli_Only")
 control.set_develop_mode(True)
 control.initialize(exp)
 
-PERIOD = 250
+PERIOD = 250 # Intervalle total en ms
 SQUARE_DURATION = 100  # ms
 
 square = stimuli.Rectangle((400, 400), position=(0, 0))
