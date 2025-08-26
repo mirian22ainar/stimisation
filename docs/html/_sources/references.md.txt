@@ -18,20 +18,22 @@ comments: true
 
 
 ## <span style="color:lightblue">Suggestions 📖</span>
+<br> 
 
 <script src="https://giscus.app/client.js"
-        data-repo="unicogr/LumiereTeam"
-        data-repo-id="R_kgDOOaCkMA"
-        data-category="LumiereTeam"
-        data-category-id="DIC_kwDOOaCkMM4CpOyh"
+        data-repo="mirian22ainar/stimisation"
+        data-repo-id="R_kgDOO5O8-g"
+        data-category="stimulating discussions"
+        data-category-id="DIC_kwDOO5O8-s4CumcE"
         data-mapping="pathname"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="gruvbox"
+        data-input-position="bottom"
+        data-theme="catppuccin_frappe"
         data-lang="en"
-        data-loading="lazy"
         crossorigin="anonymous"
         async>
 </script>
+
+<br>
