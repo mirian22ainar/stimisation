@@ -8,10 +8,13 @@ comments: true
 
 
 - [x] Pipelines
-    - [x] Arduino 
+    - [x] Arduino performances 
+    - [x] Photodiode performances
+    - [x] Use of both Arduino and photodiode 
     - [ ] User manual 
+    - [ ] My approach/Final product
 - [x] Analyses
-    - [x] Optimisation performance
+    - [x] Study of the performances
         
 
 <br>
