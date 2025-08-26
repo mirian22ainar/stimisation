@@ -1,0 +1,61 @@
+---
+layout: default
+title: "workflow"
+comments: true
+---
+
+# **Verifying the Performance of an Arduino Board**
+
+This protocol aims to verify the temporal precision and stability of an Arduino board {cite:p}`banzi2009getting` by generating a periodic signal (triggers) and analyzing it.
+
+### Prerequisites
+
+**Hardware:**
+* An Arduino board (e.g., Uno, Nano, etc. — here: Leonardo)
+* A USB cable (micro-USB or USB-C depending on the board)
+* A digital oscilloscope or acquisition device (here Analog Discovery 3)
+
+**Software:**
+* **Arduino IDE** (version `1.8.19`)
+* Acquisition and measurement software (here **Digilent Waveforms**, version `3.24.2`)
+* A **Python 3** environment with the necessary libraries (`pandas`, `numpy`, `matplotlib`, `scipy`)
+
+
+<br>
+
+|![](/figures/schematic_stim_MEG.png)|
+|:--:|
+|**Schematics**. MEG components and exchanges between them.|
+
+
+<br>
+  
+  
+<script src="https://giscus.app/client.js"
+        data-repo="unicogr/LumiereTeam"
+        data-repo-id="R_kgDOOaCkMA"
+        data-category="LumiereTeam"
+        data-category-id="DIC_kwDOOaCkMM4CpOyh"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="gruvbox"
+        data-lang="en"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+<!--- 
+a comment for myself
+--->
+
+<br>
+
+
+voilà!
+
+
