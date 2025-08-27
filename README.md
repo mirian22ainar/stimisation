@@ -70,12 +70,13 @@ Mon travail consiste à :
 
 | Fichier / Notebook                                                              | Description                                                                 |
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| [`protocole_study_arduino.ipynb`](./protocols_eng/protocole_study_arduino.ipynb) | Génération de triggers avec un microcontrôleur Arduino.                     |
-| [`protocole_study_photodiode.ipynb`](./protocols_eng/protocole_study_photodiode.ipynb) | Protocole d’évaluation de la précision temporelle d’une photodiode lors de la détection d’éclairs LED pilotés par Arduino. |
-| [`protocole_study_photodiode_screen.ipynb`](./protocols_eng/protocole_study_photodiode_screen.ipynb) | Analyse de la réponse d’une photodiode à des stimuli visuels affichés sur un écran d’ordinateur. |
-| [`protocole_study_sync_arduino_and_photodiode.ipynb`](./protocols_eng/protocole_study_sync_arduino_and_photodiode.ipynb) | Implémentation combinée : Arduino + photodiode.                             |
-| [`meg_doc.ipynb`](./protocols_eng/meg_doc.ipynb)                                 | Documentation pédagogique sur les échanges de signaux en expérience MEG.    |
+| [`protocole_etude_arduino.ipynb`](./protocoles_fr/protocole_etude_arduino.ipynb) | Génération de triggers avec un microcontrôleur Arduino.                     |
+| [`protocole_etude_photodiode.ipynb`](./protocoles_fr/protocole_etude_photodiode.ipynb) | Protocole d’évaluation de la précision temporelle d’une photodiode lors de la détection d’éclairs LED pilotés par Arduino. |
+| [`protocole_etude_photodiode_screen.ipynb`](./protocoles_fr/protocole_etude_photodiode_screen.ipynb) | Analyse de la réponse d’une photodiode à des stimuli visuels affichés sur un écran d’ordinateur. |
+| [`protocole_etude_sync_arduino_et_photodiode.ipynb`](./protocoles_fr/protocole_etude_sync_arduino_et_photodiode.ipynb) | Implémentation combinée : Arduino + photodiode.                             |
+| [`meg_doc.ipynb`](./protocoles_fr/meg_doc.ipynb)                                 | Documentation pédagogique sur les échanges de signaux en expérience MEG.    |
 | [`README.md`](./README.md)                                                      | Ce fichier – aperçu du projet et navigation dans le dépôt.                  |
+
 
 
 ⚠️ Certains fichiers sont des notebooks Jupyter (`.ipynb`) tandis que d’autres sont en Markdown (`.md`), ce qui permet à la fois une **exécution interactive** et une **documentation claire**.
