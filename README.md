@@ -23,7 +23,7 @@ My work focuses on:
 | [`protocole_study_arduino.ipynb`](./protocols_eng/protocole_study_arduino.ipynb) | Trigger generation using an Arduino microcontroller.                        |
 | [`protocole_study_photodiode.ipynb`](./protocols_eng/protocole_study_photodiode.ipynb) | Protocol to evaluate the temporal precision of a photodiode when detecting LED flashes driven by Arduino. |
 | [`protocole_study_photodiode_screen.ipynb`](./protocols_eng/protocole_study_photodiode_screen.ipynb) | Analysis of photodiode response to visual stimuli displayed on a computer screen. |
-| [`protocole_study_sync_arduino_and_photodiode.ipynb`](./protocols_eng/protocole_study_sync_arduino_and_photodiode.ipynb) | Combined implementation: Arduino + photodiode.                            |
+| [`protocole_study_sync_arduino_and_photodiode.ipynb`](./protocols_eng/protocole_study_sync_arduino_and_photodiode.ipynb) | **Trigger - visual stimuli synchronization measures**                           |
 | [`meg_doc.ipynb`](./protocols_eng/meg_doc.ipynb)                                 | Educational documentation on signal exchange in MEG experiments.            |
 | [`README.md`](./README.md)                                                      | This file – project overview and repository navigation.                     |
 
