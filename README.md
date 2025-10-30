@@ -16,6 +16,10 @@ My work focuses on:
 - Combining both approaches into a unified and functional system;
 - Clearly documenting the **signal circuits** involved in MEG experiments to assist future users.
 
+<p align="center">
+  <img src="./pictures/dispositif_photodiode_arduino.png" alt="Arduino–Photodiode synchronization setup" width="600"/>
+</p>
+
 ## 📁 Repository Structure
 
 | File / Notebook                                                                 | Description                                                                 |
